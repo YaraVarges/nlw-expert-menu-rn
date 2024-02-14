@@ -25,8 +25,9 @@ Antes de começar, certifique-se de ter o Node.js e o Expo CLI instalados em sua
 
 1. Clone o repositório:
 
-   ```bash
-   git clone https://github.com/YaraVarges/nlw-expert-menu-rn.git
+```bash
+git clone https://github.com/YaraVarges/nlw-expert-menu-rn.git
+```
 
 ## Emulando o App com Expo
 1. Certifique-se de que o Expo CLI está instalado globalmente:
