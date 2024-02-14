@@ -1,4 +1,4 @@
-import { TouchableOpacity, TouchableOpacityProps, Image, View, Text, Pressable, PressableProps, ImageProps} from "react-native";
+import { TouchableOpacity, TouchableOpacityProps, Image, View, Text, ImageProps} from "react-native";
 import { forwardRef } from  'react';
 
 import { formatCurrency } from "@/utils/functions/format-currency";
