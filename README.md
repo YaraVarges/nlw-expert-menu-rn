@@ -38,7 +38,7 @@ npm install -g expo-cli
 2. Inicie o servidor do Expo:
 
 ```bash 
-expo start
+npx expo start
 ```
 Escaneie o código QR com o aplicativo Expo Go em seu dispositivo móvel.
 
