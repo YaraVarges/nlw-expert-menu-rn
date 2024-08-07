@@ -1,6 +1,6 @@
 import { useState, useRef } from 'react';
 import { Text, View, FlatList, SectionList} from 'react-native';
- 
+
 import { Header } from '@/components/header';
 import { Category } from '@/components/category';
 import { Product } from '@/components/product';
